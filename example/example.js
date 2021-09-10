@@ -3,7 +3,7 @@ const {ReactDraggable: Draggable, React, ReactDOM} = window;
 class App extends React.Component {
   state = {
     activeDrags: 0,
-    deltaPosition: {
+    deltaPosition: {ddd
       x: 0, y: 0
     },
     controlledPosition: {
